@@ -21,7 +21,7 @@ require (
 	cloud.google.com/go/pubsub v1.17.1
 	cloud.google.com/go/storage v1.18.2
 	cloud.google.com/go/workflows v1.0.0
-	github.com/Azure/azure-amqp-common-go/v3 v3.2.1
+	github.com/Azure/azure-amqp-common-go/v3 v3.2.2
 	github.com/Azure/azure-event-hubs-go/v3 v3.3.16
 	github.com/Azure/azure-sdk-for-go v58.3.0+incompatible
 	github.com/Azure/azure-service-bus-go v0.11.5
@@ -31,10 +31,10 @@ require (
 	github.com/Azure/go-autorest/autorest/azure/auth v0.5.9
 	github.com/Azure/go-autorest/autorest/to v0.4.0
 	github.com/ZachtimusPrime/Go-Splunk-HTTP/splunk/v2 v2.0.2
-	github.com/aliyun/aliyun-oss-go-sdk v2.1.9+incompatible
+	github.com/aliyun/aliyun-oss-go-sdk v2.2.0+incompatible
 	github.com/amenzhinsky/iothub v0.8.0
 	github.com/andygrunwald/go-jira v1.14.0
-	github.com/aws/aws-sdk-go v1.42.8
+	github.com/aws/aws-sdk-go v1.42.15
 	github.com/clbanning/mxj v1.8.4
 	github.com/devigned/tab v0.1.1
 	github.com/elastic/go-elasticsearch/v7 v7.15.1
@@ -52,7 +52,7 @@ require (
 	github.com/sendgrid/sendgrid-go v3.10.3+incompatible
 	github.com/stretchr/testify v1.7.0
 	github.com/tektoncd/pipeline v0.30.0
-	github.com/tidwall/gjson v1.11.0
+	github.com/tidwall/gjson v1.12.1
 	go.opencensus.io v0.23.0
 	go.opentelemetry.io/contrib/exporters/metric/cortex v0.25.0
 	go.opentelemetry.io/otel v1.2.0
