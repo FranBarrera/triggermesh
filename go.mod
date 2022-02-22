@@ -21,8 +21,8 @@ require (
 	cloud.google.com/go/pubsub v1.18.0
 	cloud.google.com/go/storage v1.21.0
 	cloud.google.com/go/workflows v1.2.0
-	github.com/Azure/azure-amqp-common-go/v3 v3.2.2
-	github.com/Azure/azure-event-hubs-go/v3 v3.3.16
+	github.com/Azure/azure-amqp-common-go/v3 v3.2.3
+	github.com/Azure/azure-event-hubs-go/v3 v3.3.17
 	github.com/Azure/azure-sdk-for-go v61.6.0+incompatible
 	github.com/Azure/azure-sdk-for-go/sdk/azidentity v0.13.1
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/eventhub/armeventhub v0.3.1
@@ -95,7 +95,7 @@ require (
 	github.com/Azure/azure-pipeline-go v0.1.9 // indirect
 	github.com/Azure/azure-sdk-for-go/sdk/azcore v0.21.1 // indirect
 	github.com/Azure/azure-sdk-for-go/sdk/internal v0.9.1 // indirect
-	github.com/Azure/go-amqp v0.16.4 // indirect
+	github.com/Azure/go-amqp v0.17.0 // indirect
 	github.com/Azure/go-autorest v14.2.0+incompatible // indirect
 	github.com/Azure/go-autorest/autorest/azure/cli v0.4.5 // indirect
 	github.com/Azure/go-autorest/autorest/date v0.3.0 // indirect
