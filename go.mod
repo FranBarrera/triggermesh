@@ -30,7 +30,7 @@ require (
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/eventhub/armeventhub v0.5.0
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/iothub/armiothub v0.5.0
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/resources/armresources v0.5.0
-	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/storage/armstorage v0.5.0
+	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/storage/armstorage v0.6.0
 	github.com/Azure/azure-sdk-for-go/sdk/storage/azblob v0.4.0
 	github.com/Azure/azure-storage-queue-go v0.0.0-20191125232315-636801874cdd
 	github.com/Azure/go-autorest/autorest v0.11.27
