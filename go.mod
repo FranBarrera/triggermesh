@@ -41,7 +41,7 @@ require (
 	github.com/aliyun/aliyun-oss-go-sdk v2.2.6+incompatible
 	github.com/amenzhinsky/iothub v0.9.0
 	github.com/andygrunwald/go-jira v1.16.0
-	github.com/aws/aws-sdk-go v1.44.137
+	github.com/aws/aws-sdk-go v1.44.146
 	github.com/basgys/goxml2json v1.1.0
 	github.com/devigned/tab v0.1.1
 	github.com/elastic/go-elasticsearch/v7 v7.17.7
